@@ -1,0 +1,880 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1669753179221,1022,url-4,200,OK,Linea Base 1-1,text,true,,5104,474,2,2,https://opencart.abstracta.us/,1022,0,830
+1669753179678,610,url-4,200,OK,Linea Base 1-2,text,true,,5104,474,2,2,https://opencart.abstracta.us/,609,0,437
+1669753180250,143,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,143,0,0
+1669753180291,130,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,130,0,0
+1669753180395,246,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1724,2,2,https://opencart.abstracta.us/index.php?route=account/register,245,0,0
+1669753180423,266,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1756,2,2,https://opencart.abstracta.us/index.php?route=account/register,265,0,0
+1669753180643,981,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,155,0,0
+1669753180643,155,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,155,0,0
+1669753180800,824,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,824,0,659
+1669753181626,144,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753180691,1125,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,528,0,0
+1669753180691,528,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,528,0,0
+1669753181220,596,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,595,0,413
+1669753181818,122,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753181773,277,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,133
+1669753181943,253,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,121
+1669753182050,218,monitor-92,200,OK,Linea Base 1-1,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,218,0,0
+1669753182198,190,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,190,0,0
+1669753182269,156,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,156,0,0
+1669753182389,152,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,152,0,0
+1669753182426,158,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,158,0,0
+1669753182543,295,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,295,0,0
+1669753182586,669,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,668,0,499
+1669753183256,139,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,138,0,0
+1669753182840,565,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,564,0,386
+1669753183405,139,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,139,0,0
+1669753183396,193,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1784,2,2,https://opencart.abstracta.us/index.php?route=account/register,193,0,0
+1669753183546,198,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1804,2,2,https://opencart.abstracta.us/index.php?route=account/register,197,0,0
+1669753183591,763,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,184,0,0
+1669753183591,184,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,184,0,0
+1669753183776,578,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,577,0,400
+1669753183745,711,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,133,0,0
+1669753183745,133,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,133,0,0
+1669753183878,578,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,578,0,410
+1669753184355,122,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753184458,138,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753184478,295,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,163
+1669753184597,333,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,169
+1669753184773,228,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,228,0,0
+1669753185002,137,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,136,0,0
+1669753184931,275,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,275,0,0
+1669753185207,189,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,189,0,0
+1669753185139,257,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,257,0,0
+1669753185397,535,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,535,0,0
+1669753185397,957,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,957,0,776
+1669753185933,553,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,553,0,380
+1669753186355,138,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,138,0,0
+1669753186487,140,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,140,0,0
+1669753186493,179,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1745,2,2,https://opencart.abstracta.us/index.php?route=account/register,179,0,0
+1669753186628,225,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5363,1772,2,2,https://opencart.abstracta.us/index.php?route=account/register,225,0,0
+1669753186673,800,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,135,0,0
+1669753186673,135,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,135,0,0
+1669753186809,664,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,664,0,492
+1669753186854,748,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,145,0,0
+1669753186854,145,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,145,0,0
+1669753186999,603,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,603,0,439
+1669753187475,290,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753187603,163,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753187767,312,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,132
+1669753187765,315,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,127
+1669753188080,250,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,249,0,0
+1669753188080,259,monitor-92,200,OK,Linea Base 1-2,text,true,,14434,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,259,0,0
+1669753188340,137,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,137,0,0
+1669753188330,147,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,147,0,0
+1669753188478,147,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,147,0,0
+1669753188478,149,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,149,0,0
+1669753188626,604,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,604,0,400
+1669753188628,612,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,612,0,411
+1669753189232,139,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,139,0,0
+1669753189241,134,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,134,0,0
+1669753189372,212,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5356,1780,2,2,https://opencart.abstracta.us/index.php?route=account/register,212,0,0
+1669753189376,217,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1818,2,2,https://opencart.abstracta.us/index.php?route=account/register,217,0,0
+1669753189594,842,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,192,0,0
+1669753189594,192,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,192,0,0
+1669753189786,650,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,650,0,453
+1669753189585,853,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,206,0,0
+1669753189585,206,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,206,0,0
+1669753189792,646,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,646,0,445
+1669753190439,129,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753190437,134,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753190572,313,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,176
+1669753190569,321,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,179
+1669753190885,230,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,230,0,0
+1669753190891,228,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,227,0,0
+1669753191116,138,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,137,0,0
+1669753191119,144,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,143,0,0
+1669753191254,142,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,142,0,0
+1669753191263,155,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,155,0,0
+1669753191398,572,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,572,0,392
+1669753191420,656,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,656,0,487
+1669753191972,147,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,146,0,0
+1669753192079,135,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,135,0,0
+1669753192120,188,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1749,2,2,https://opencart.abstracta.us/index.php?route=account/register,187,0,0
+1669753192215,175,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1718,2,2,https://opencart.abstracta.us/index.php?route=account/register,175,0,0
+1669753192310,877,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,137,0,0
+1669753192310,137,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,137,0,0
+1669753192448,739,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,738,0,514
+1669753192392,802,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,131,0,0
+1669753192392,131,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,131,0,0
+1669753192524,670,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,669,0,447
+1669753193190,158,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753193195,161,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753193357,252,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,124
+1669753193350,260,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,121
+1669753193611,237,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,237,0,0
+1669753193610,239,monitor-92,200,OK,Linea Base 1-1,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,239,0,0
+1669753193849,137,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,137,0,0
+1669753193849,145,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,145,0,0
+1669753193987,152,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,152,0,0
+1669753193995,147,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,147,0,0
+1669753194142,735,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,734,0,410
+1669753194143,764,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,764,0,496
+1669753194878,143,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,143,0,0
+1669753194909,171,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,171,0,0
+1669753195022,209,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5359,1778,2,2,https://opencart.abstracta.us/index.php?route=account/register,208,0,0
+1669753195082,204,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1756,2,2,https://opencart.abstracta.us/index.php?route=account/register,204,0,0
+1669753195233,880,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,145,0,0
+1669753195233,145,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,145,0,0
+1669753195379,734,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,733,0,503
+1669753195287,911,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,168,0,0
+1669753195287,168,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,168,0,0
+1669753195456,742,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,741,0,545
+1669753196115,125,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753196199,157,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753196241,334,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,154
+1669753196357,271,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,123
+1669753196629,291,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,290,0,0
+1669753196575,380,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,380,0,0
+1669753196921,155,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,155,0,0
+1669753196956,267,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,266,0,0
+1669753197077,146,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,146,0,0
+1669753197223,180,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,180,0,0
+1669753197225,665,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,664,0,478
+1669753197891,145,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,145,0,0
+1669753197405,751,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,750,0,537
+1669753198037,185,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5362,1748,2,2,https://opencart.abstracta.us/index.php?route=account/register,184,0,0
+1669753198157,165,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,165,0,0
+1669753198323,223,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5356,1703,2,2,https://opencart.abstracta.us/index.php?route=account/register,223,0,0
+1669753198223,879,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,137,0,0
+1669753198223,137,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,137,0,0
+1669753198361,741,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,741,0,539
+1669753199103,128,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753198547,755,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,166,0,0
+1669753198547,166,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,166,0,0
+1669753198714,588,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,588,0,413
+1669753199304,157,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753199232,330,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,158
+1669753199462,359,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,154
+1669753199563,333,monitor-92,200,OK,Linea Base 1-2,text,true,,14436,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,332,0,0
+1669753199822,228,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,228,0,0
+1669753199896,187,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,187,0,0
+1669753200051,166,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,166,0,0
+1669753200083,177,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1669753200217,184,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,184,0,0
+1669753200263,783,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,783,0,550
+1669753200403,665,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,664,0,429
+1669753201069,167,boton registro-52,200,OK,Linea Base 1-1,text,true,,520,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,167,0,0
+1669753201047,216,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,216,0,0
+1669753201237,254,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1767,2,2,https://opencart.abstracta.us/index.php?route=account/register,253,0,0
+1669753201265,328,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1779,2,2,https://opencart.abstracta.us/index.php?route=account/register,327,0,0
+1669753201594,928,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,302,0,0
+1669753201594,302,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,302,0,0
+1669753201897,625,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,625,0,433
+1669753201493,1033,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,220,0,0
+1669753201493,220,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,220,0,0
+1669753201714,812,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,812,0,583
+1669753202527,129,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753202524,159,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753202657,298,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,163
+1669753202684,332,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,167
+1669753202956,177,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,177,0,0
+1669753203017,219,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,218,0,0
+1669753203134,137,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,137,0,0
+1669753203271,147,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,147,0,0
+1669753203236,220,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,220,0,0
+1669753203457,221,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,221,0,0
+1669753203419,978,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,978,0,775
+1669753203679,853,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,853,0,649
+1669753204399,164,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,164,0,0
+1669753204534,173,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,173,0,0
+1669753204564,309,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1751,2,2,https://opencart.abstracta.us/index.php?route=account/register,309,0,0
+1669753204709,197,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1804,2,2,https://opencart.abstracta.us/index.php?route=account/register,197,0,0
+1669753204907,1024,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,164,0,0
+1669753204907,165,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,164,0,0
+1669753205073,858,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,858,0,551
+1669753204875,1057,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,165,0,0
+1669753204875,165,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,165,0,0
+1669753205041,891,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,891,0,501
+1669753205933,160,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753205932,165,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753206098,263,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,127
+1669753206094,333,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,163
+1669753206362,192,monitor-92,200,OK,Linea Base 1-2,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,191,0,0
+1669753206428,223,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,222,0,0
+1669753206554,273,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,273,0,0
+1669753206652,208,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,208,0,0
+1669753206828,204,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,204,0,0
+1669753206861,219,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,219,0,0
+1669753207082,649,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,649,0,421
+1669753207033,703,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,702,0,430
+1669753207737,139,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,139,0,0
+1669753207733,152,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,152,0,0
+1669753207877,186,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1800,2,2,https://opencart.abstracta.us/index.php?route=account/register,186,0,0
+1669753207886,196,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5363,1761,2,2,https://opencart.abstracta.us/index.php?route=account/register,196,0,0
+1669753208083,924,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,158,0,0
+1669753208083,158,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,158,0,0
+1669753208241,766,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,766,0,540
+1669753208064,953,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,179,0,0
+1669753208064,179,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,179,0,0
+1669753208243,774,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,774,0,538
+1669753209008,142,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753209018,150,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753209170,313,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,178
+1669753209152,381,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,213
+1669753209483,216,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,215,0,0
+1669753209533,226,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,225,0,0
+1669753209700,142,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,142,0,0
+1669753209759,201,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,200,0,0
+1669753209843,151,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,151,0,0
+1669753209960,177,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1669753209995,710,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,710,0,505
+1669753210707,176,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,176,0,0
+1669753210139,744,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,744,0,475
+1669753210884,171,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,171,0,0
+1669753210884,208,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5356,1758,2,2,https://opencart.abstracta.us/index.php?route=account/register,207,0,0
+1669753211055,232,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1707,2,2,https://opencart.abstracta.us/index.php?route=account/register,231,0,0
+1669753211092,928,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,194,0,0
+1669753211092,194,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,194,0,0
+1669753211287,733,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,733,0,523
+1669753211288,757,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,163,0,0
+1669753211288,163,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,163,0,0
+1669753211451,594,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,594,0,416
+1669753212022,154,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753212046,155,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753212202,265,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,123
+1669753212177,322,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,156
+1669753212467,182,monitor-92,200,OK,Linea Base 1-1,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,181,0,0
+1669753212499,246,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,245,0,0
+1669753212650,143,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,142,0,0
+1669753212794,159,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,159,0,0
+1669753212746,215,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,215,0,0
+1669753212962,172,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,172,0,0
+1669753212954,697,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,697,0,484
+1669753213652,215,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,215,0,0
+1669753213135,732,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,731,0,493
+1669753213868,244,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,244,0,0
+1669753213868,268,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1705,2,2,https://opencart.abstracta.us/index.php?route=account/register,268,0,0
+1669753214113,208,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1740,2,2,https://opencart.abstracta.us/index.php?route=account/register,208,0,0
+1669753214136,828,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,166,0,0
+1669753214136,166,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,166,0,0
+1669753214302,662,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,662,0,488
+1669753214965,167,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753214323,938,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,214,0,0
+1669753214323,214,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,214,0,0
+1669753214538,723,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,723,0,497
+1669753215134,285,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,125
+1669753215262,181,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753215420,261,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,261,0,0
+1669753215444,394,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,211
+1669753215681,188,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,187,0,0
+1669753215869,160,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,159,0,0
+1669753215838,224,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,224,0,0
+1669753216063,195,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,195,0,0
+1669753216259,184,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,184,0,0
+1669753216030,692,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,691,0,492
+1669753216723,165,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,165,0,0
+1669753216444,622,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,619,0,447
+1669753216890,215,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5359,1723,2,2,https://opencart.abstracta.us/index.php?route=account/register,214,0,0
+1669753217067,138,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,138,0,0
+1669753217206,175,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1778,2,2,https://opencart.abstracta.us/index.php?route=account/register,174,0,0
+1669753217106,926,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,173,0,0
+1669753217106,173,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,173,0,0
+1669753217280,752,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,752,0,557
+1669753217381,736,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,136,0,0
+1669753217381,136,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,136,0,0
+1669753217518,599,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,599,0,435
+1669753218033,158,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753218118,127,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753218246,314,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,181
+1669753218191,395,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,156
+1669753218561,307,monitor-92,200,OK,Linea Base 1-2,text,true,,14434,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,306,0,0
+1669753218587,311,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,311,0,0
+1669753218868,132,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,132,0,0
+1669753218899,176,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,176,0,0
+1669753219001,144,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,144,0,0
+1669753219076,182,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,182,0,0
+1669753219146,753,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,753,0,534
+1669753219259,749,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,749,0,546
+1669753219901,167,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,167,0,0
+1669753220010,241,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,241,0,0
+1669753220069,215,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5362,1826,2,2,https://opencart.abstracta.us/index.php?route=account/register,215,0,0
+1669753220251,215,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5356,1747,2,2,https://opencart.abstracta.us/index.php?route=account/register,214,0,0
+1669753220285,898,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,172,0,0
+1669753220285,172,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,172,0,0
+1669753220458,725,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,725,0,499
+1669753220468,741,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,169,0,0
+1669753220468,169,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,169,0,0
+1669753220637,572,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,571,0,386
+1669753221185,169,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753221210,160,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753221355,262,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,128
+1669753221371,474,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,173
+1669753221617,246,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,245,0,0
+1669753221863,135,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,135,0,0
+1669753221846,221,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,220,0,0
+1669753221998,151,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,151,0,0
+1669753222067,181,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,181,0,0
+1669753222248,174,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,174,0,0
+1669753222151,562,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,562,0,390
+1669753222714,136,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,136,0,0
+1669753222851,167,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1801,2,2,https://opencart.abstracta.us/index.php?route=account/register,167,0,0
+1669753222424,816,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,816,0,592
+1669753223241,168,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,168,0,0
+1669753223410,230,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1778,2,2,https://opencart.abstracta.us/index.php?route=account/register,229,0,0
+1669753223019,844,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,152,0,0
+1669753223019,152,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,152,0,0
+1669753223171,692,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,692,0,489
+1669753223864,126,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753223990,259,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,123
+1669753223641,811,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,186,0,0
+1669753223641,186,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,186,0,0
+1669753223827,625,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,624,0,416
+1669753224250,219,monitor-92,200,OK,Linea Base 1-2,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,219,0,0
+1669753224469,137,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,137,0,0
+1669753224452,160,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753224607,143,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,143,0,0
+1669753224612,314,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,152
+1669753224926,234,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,234,0,0
+1669753224751,621,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,620,0,405
+1669753225373,140,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,140,0,0
+1669753225160,376,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,376,0,0
+1669753225514,169,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1762,2,2,https://opencart.abstracta.us/index.php?route=account/register,168,0,0
+1669753225536,177,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1669753225683,678,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,132,0,0
+1669753225683,132,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,132,0,0
+1669753225815,546,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,546,0,380
+1669753225714,702,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,702,0,502
+1669753226362,139,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753226416,171,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,171,0,0
+1669753226589,283,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1771,2,2,https://opencart.abstracta.us/index.php?route=account/register,283,0,0
+1669753226502,376,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,203
+1669753226878,241,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,240,0,0
+1669753227119,161,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,160,0,0
+1669753227280,194,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,194,0,0
+1669753226873,1020,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,184,0,0
+1669753226873,184,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,184,0,0
+1669753227058,835,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,835,0,589
+1669753227893,168,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753227475,816,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,816,0,607
+1669753228062,268,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,124
+1669753228291,169,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,169,0,0
+1669753228330,210,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,209,0,0
+1669753228462,254,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1756,2,2,https://opencart.abstracta.us/index.php?route=account/register,253,0,0
+1669753228541,182,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,182,0,0
+1669753228724,145,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,144,0,0
+1669753228870,655,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,655,0,470
+1669753228717,912,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,178,0,0
+1669753228717,178,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,178,0,0
+1669753228896,733,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,733,0,529
+1669753229527,142,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,142,0,0
+1669753229629,232,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753229670,217,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5363,1817,2,2,https://opencart.abstracta.us/index.php?route=account/register,216,0,0
+1669753229862,632,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,168
+1669753230495,429,monitor-92,200,OK,Linea Base 1-2,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,429,0,0
+1669753230924,361,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,361,0,0
+1669753229888,1572,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,211,0,0
+1669753229888,211,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,211,0,0
+1669753230099,1361,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,1361,0,1111
+1669753231286,180,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,180,0,0
+1669753231461,129,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753231590,426,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,206
+1669753231466,777,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,776,0,540
+1669753232017,277,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,277,0,0
+1669753232244,191,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,191,0,0
+1669753232295,206,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,206,0,0
+1669753232436,205,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5356,1814,2,2,https://opencart.abstracta.us/index.php?route=account/register,204,0,0
+1669753232502,187,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,187,0,0
+1669753232692,638,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,637,0,458
+1669753233331,133,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,133,0,0
+1669753232643,964,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,209,0,0
+1669753232643,209,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,209,0,0
+1669753232852,755,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,755,0,541
+1669753233465,168,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1795,2,2,https://opencart.abstracta.us/index.php?route=account/register,167,0,0
+1669753233608,217,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753233825,253,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,121
+1669753234079,182,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,181,0,0
+1669753234262,128,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,128,0,0
+1669753233633,850,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,174,0,0
+1669753233633,174,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,174,0,0
+1669753233807,676,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,675,0,478
+1669753234391,142,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,142,0,0
+1669753234484,127,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753234612,266,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,132
+1669753234879,178,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,178,0,0
+1669753235058,129,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,129,0,0
+1669753234534,697,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,697,0,492
+1669753235187,143,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,143,0,0
+1669753235232,171,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,170,0,0
+1669753235404,206,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1804,2,2,https://opencart.abstracta.us/index.php?route=account/register,206,0,0
+1669753235331,592,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,591,0,412
+1669753235924,136,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,136,0,0
+1669753236061,171,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1818,2,2,https://opencart.abstracta.us/index.php?route=account/register,171,0,0
+1669753235611,869,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,196,0,0
+1669753235611,196,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,196,0,0
+1669753235807,673,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,673,0,479
+1669753236481,154,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753236636,366,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,201
+1669753236233,810,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,131,0,0
+1669753236233,131,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,131,0,0
+1669753236364,679,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,679,0,486
+1669753237044,129,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753237003,213,monitor-92,200,OK,Linea Base 1-2,text,true,,14436,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,213,0,0
+1669753237217,196,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,196,0,0
+1669753237174,312,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,176
+1669753237413,178,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,178,0,0
+1669753237487,187,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,186,0,0
+1669753237674,146,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,146,0,0
+1669753237821,156,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,156,0,0
+1669753237592,808,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,808,0,599
+1669753238403,165,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,165,0,0
+1669753237978,648,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,648,0,471
+1669753238627,166,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,166,0,0
+1669753238569,294,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5359,1756,2,2,https://opencart.abstracta.us/index.php?route=account/register,294,0,0
+1669753238794,169,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1745,2,2,https://opencart.abstracta.us/index.php?route=account/register,168,0,0
+1669753238864,849,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,161,0,0
+1669753238864,161,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,161,0,0
+1669753239025,688,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,688,0,488
+1669753238964,876,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,133,0,0
+1669753238964,133,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,133,0,0
+1669753239097,743,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,743,0,481
+1669753239713,157,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753239841,127,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753239969,290,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,119
+1669753239871,388,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,168
+1669753240260,236,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,235,0,0
+1669753240260,284,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,283,0,0
+1669753240496,146,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,146,0,0
+1669753240544,167,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,167,0,0
+1669753240642,217,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,217,0,0
+1669753240711,177,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1669753240889,624,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,623,0,455
+1669753240860,796,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,796,0,586
+1669753241514,144,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,144,0,0
+1669753241657,190,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,190,0,0
+1669753241659,188,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5356,1791,2,2,https://opencart.abstracta.us/index.php?route=account/register,188,0,0
+1669753241848,276,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5362,1792,2,2,https://opencart.abstracta.us/index.php?route=account/register,275,0,0
+1669753241848,930,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,210,0,0
+1669753241848,210,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,210,0,0
+1669753242058,720,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,720,0,504
+1669753242779,121,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753242125,844,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,163,0,0
+1669753242125,163,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,163,0,0
+1669753242288,681,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,681,0,493
+1669753242970,162,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753242901,397,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,228
+1669753243133,259,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,122
+1669753243299,268,monitor-92,200,OK,Linea Base 1-2,text,true,,14434,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,268,0,0
+1669753243393,198,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,198,0,0
+1669753243591,189,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,189,0,0
+1669753243568,228,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,228,0,0
+1669753243780,145,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,145,0,0
+1669753243797,171,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,171,0,0
+1669753243970,606,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,606,0,433
+1669753243927,720,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,720,0,506
+1669753244577,235,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,235,0,0
+1669753244648,196,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,195,0,0
+1669753244813,170,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1723,2,2,https://opencart.abstracta.us/index.php?route=account/register,169,0,0
+1669753244845,201,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1702,2,2,https://opencart.abstracta.us/index.php?route=account/register,201,0,0
+1669753245047,784,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,165,0,0
+1669753245047,165,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,165,0,0
+1669753245213,618,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,618,0,397
+1669753244984,883,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,132,0,0
+1669753244984,132,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,132,0,0
+1669753245116,751,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,751,0,494
+1669753245833,154,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753245868,141,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753245987,281,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,120
+1669753246010,322,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,152
+1669753246268,217,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,216,0,0
+1669753246333,215,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,215,0,0
+1669753246485,170,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,170,0,0
+1669753246656,168,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,168,0,0
+1669753246549,277,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,277,0,0
+1669753246826,173,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,173,0,0
+1669753246825,713,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,713,0,489
+1669753247539,174,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,173,0,0
+1669753247000,800,url-4,200,OK,Linea Base 1-2,text,true,,4825,549,2,2,https://opencart.abstracta.us/,799,0,537
+1669753247713,265,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1740,2,2,https://opencart.abstracta.us/index.php?route=account/register,265,0,0
+1669753247801,522,boton registro-52,200,OK,Linea Base 1-2,text,true,,493,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,522,0,390
+1669753248324,173,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1749,2,2,https://opencart.abstracta.us/index.php?route=account/register,172,0,0
+1669753247979,846,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,165,0,0
+1669753247979,165,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,165,0,0
+1669753248144,681,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,681,0,476
+1669753248826,155,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753248497,769,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,141,0,0
+1669753248497,141,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,141,0,0
+1669753248638,628,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,628,0,463
+1669753248982,320,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,151
+1669753249267,122,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753249302,216,monitor-92,200,OK,Linea Base 1-1,text,true,,14434,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,216,0,0
+1669753249389,259,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,126
+1669753249519,203,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,203,0,0
+1669753249722,182,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,182,0,0
+1669753249648,269,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,268,0,0
+1669753249917,140,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,140,0,0
+1669753250057,155,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,155,0,0
+1669753249905,740,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,739,0,526
+1669753250646,166,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,166,0,0
+1669753250213,614,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,614,0,431
+1669753250828,129,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,129,0,0
+1669753250812,200,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1701,2,2,https://opencart.abstracta.us/index.php?route=account/register,199,0,0
+1669753250958,175,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5363,1739,2,2,https://opencart.abstracta.us/index.php?route=account/register,175,0,0
+1669753251135,750,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,130,0,0
+1669753251135,130,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,130,0,0
+1669753251265,620,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,619,0,423
+1669753251012,875,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,163,0,0
+1669753251012,163,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,163,0,0
+1669753251176,711,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,711,0,482
+1669753251888,157,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753252045,263,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,118
+1669753251886,502,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753252308,178,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,178,0,0
+1669753252389,317,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,152
+1669753252487,335,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,334,0,0
+1669753252707,217,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,217,0,0
+1669753252822,143,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,143,0,0
+1669753252925,165,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,165,0,0
+1669753253090,183,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,183,0,0
+1669753252967,688,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,688,0,485
+1669753253656,169,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,169,0,0
+1669753253826,230,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5356,1780,2,2,https://opencart.abstracta.us/index.php?route=account/register,229,0,0
+1669753253274,787,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,786,0,540
+1669753254061,170,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,170,0,0
+1669753254232,200,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1751,2,2,https://opencart.abstracta.us/index.php?route=account/register,199,0,0
+1669753254056,752,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,173,0,0
+1669753254056,173,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,173,0,0
+1669753254229,579,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,579,0,388
+1669753254809,153,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753254432,757,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,163,0,0
+1669753254432,163,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,163,0,0
+1669753254595,594,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,594,0,433
+1669753254963,259,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,117
+1669753255190,153,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753255223,177,monitor-92,200,OK,Linea Base 1-1,text,true,,14434,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,177,0,0
+1669753255400,124,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,124,0,0
+1669753255343,254,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,119
+1669753255525,142,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,142,0,0
+1669753255598,282,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,282,0,0
+1669753255881,132,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,132,0,0
+1669753256013,142,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,142,0,0
+1669753255668,589,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,589,0,416
+1669753256258,132,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,131,0,0
+1669753256390,173,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1749,2,2,https://opencart.abstracta.us/index.php?route=account/register,172,0,0
+1669753256156,537,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,537,0,371
+1669753256694,134,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,134,0,0
+1669753256829,160,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1762,2,2,https://opencart.abstracta.us/index.php?route=account/register,160,0,0
+1669753256563,784,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,243,0,0
+1669753256563,243,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,243,0,0
+1669753256806,541,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,541,0,379
+1669753257348,126,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753257476,316,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,123
+1669753256990,873,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,127,0,0
+1669753256990,127,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,127,0,0
+1669753257117,746,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,746,0,497
+1669753257793,179,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,178,0,0
+1669753257864,116,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753257973,133,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,133,0,0
+1669753257981,260,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,120
+1669753258106,142,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,142,0,0
+1669753258241,187,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,187,0,0
+1669753258429,147,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,147,0,0
+1669753258577,216,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,216,0,0
+1669753258249,757,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,756,0,557
+1669753259007,165,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,165,0,0
+1669753259173,205,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5359,1701,2,2,https://opencart.abstracta.us/index.php?route=account/register,204,0,0
+1669753258794,667,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,666,0,468
+1669753259461,180,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,180,0,0
+1669753259642,251,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1800,2,2,https://opencart.abstracta.us/index.php?route=account/register,250,0,0
+1669753259378,737,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,166,0,0
+1669753259378,166,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,166,0,0
+1669753259544,571,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,570,0,408
+1669753260115,159,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753260275,319,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,155
+1669753259894,832,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,166,0,0
+1669753259894,166,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,166,0,0
+1669753260060,666,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,666,0,474
+1669753260727,149,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753260594,297,monitor-92,200,OK,Linea Base 1-1,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,296,0,0
+1669753260891,159,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,159,0,0
+1669753260877,324,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,157
+1669753261050,185,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,185,0,0
+1669753261201,351,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,351,0,0
+1669753261552,284,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,284,0,0
+1669753261836,175,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,175,0,0
+1669753261235,970,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,969,0,749
+1669753262206,162,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,162,0,0
+1669753262012,586,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,585,0,382
+1669753262368,239,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5362,1770,2,2,https://opencart.abstracta.us/index.php?route=account/register,239,0,0
+1669753262599,164,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,164,0,0
+1669753262764,194,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5356,1780,2,2,https://opencart.abstracta.us/index.php?route=account/register,194,0,0
+1669753262608,711,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,186,0,0
+1669753262608,186,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,186,0,0
+1669753262795,524,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,524,0,367
+1669753263320,151,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753263472,372,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,153
+1669753262959,917,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,127,0,0
+1669753262959,127,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,127,0,0
+1669753263087,789,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,788,0,476
+1669753263876,127,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753263844,211,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,211,0,0
+1669753264056,161,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,161,0,0
+1669753264004,325,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,152
+1669753264217,179,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,179,0,0
+1669753264329,210,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,210,0,0
+1669753264540,169,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,169,0,0
+1669753264709,176,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,176,0,0
+1669753264397,862,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,862,0,647
+1669753265260,162,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,162,0,0
+1669753264886,688,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,687,0,481
+1669753265423,208,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1757,2,2,https://opencart.abstracta.us/index.php?route=account/register,207,0,0
+1669753265574,253,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,253,0,0
+1669753265827,217,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1712,2,2,https://opencart.abstracta.us/index.php?route=account/register,217,0,0
+1669753265631,870,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,196,0,0
+1669753265631,196,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,196,0,0
+1669753265827,674,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,674,0,481
+1669753266503,161,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753266045,900,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,161,0,0
+1669753266045,161,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,161,0,0
+1669753266206,739,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,739,0,511
+1669753266666,330,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,161
+1669753266946,155,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753266996,214,monitor-92,200,OK,Linea Base 1-1,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,213,0,0
+1669753267102,260,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,123
+1669753267210,167,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,167,0,0
+1669753267377,176,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,176,0,0
+1669753267363,191,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,191,0,0
+1669753267554,137,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,137,0,0
+1669753267691,143,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,143,0,0
+1669753267554,700,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,700,0,496
+1669753268255,167,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,167,0,0
+1669753267834,712,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,712,0,507
+1669753268423,209,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1740,2,2,https://opencart.abstracta.us/index.php?route=account/register,208,0,0
+1669753268547,161,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,161,0,0
+1669753268709,210,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1771,2,2,https://opencart.abstracta.us/index.php?route=account/register,210,0,0
+1669753268633,749,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,195,0,0
+1669753268633,195,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,195,0,0
+1669753268828,554,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,554,0,391
+1669753269383,155,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753269539,267,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,129
+1669753268921,927,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,162,0,0
+1669753268921,162,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,162,0,0
+1669753269083,765,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,765,0,477
+1669753269849,153,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753269807,196,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,196,0,0
+1669753270004,124,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,124,0,0
+1669753270128,151,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,151,0,0
+1669753270002,341,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,152
+1669753270343,213,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,212,0,0
+1669753270556,214,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,214,0,0
+1669753270770,188,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,188,0,0
+1669753270280,725,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,725,0,488
+1669753271005,183,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,183,0,0
+1669753271190,211,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1800,2,2,https://opencart.abstracta.us/index.php?route=account/register,210,0,0
+1669753270960,556,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,556,0,387
+1669753271517,136,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,136,0,0
+1669753271653,181,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5363,1828,2,2,https://opencart.abstracta.us/index.php?route=account/register,181,0,0
+1669753271402,1001,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,165,0,0
+1669753271402,165,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,165,0,0
+1669753271567,836,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,836,0,645
+1669753272404,158,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753271835,795,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,133,0,0
+1669753271835,133,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,133,0,0
+1669753271968,662,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,661,0,468
+1669753272630,156,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753272562,337,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,171
+1669753272899,213,monitor-92,200,OK,Linea Base 1-1,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,213,0,0
+1669753272786,327,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,151
+1669753273112,165,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,165,0,0
+1669753273113,223,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,222,0,0
+1669753273277,183,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,183,0,0
+1669753273336,166,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,166,0,0
+1669753273502,177,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1669753273461,708,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,708,0,504
+1669753274170,170,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,170,0,0
+1669753273680,699,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,698,0,494
+1669753274379,161,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,161,0,0
+1669753274341,213,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5356,1758,2,2,https://opencart.abstracta.us/index.php?route=account/register,213,0,0
+1669753274541,215,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1707,2,2,https://opencart.abstracta.us/index.php?route=account/register,215,0,0
+1669753274554,846,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,163,0,0
+1669753274554,163,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,163,0,0
+1669753274718,682,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,681,0,486
+1669753274757,718,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,162,0,0
+1669753274757,162,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,162,0,0
+1669753274919,556,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,556,0,393
+1669753275400,151,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753275476,159,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753275551,252,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,118
+1669753275636,360,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,181
+1669753275803,193,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,193,0,0
+1669753275997,126,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,126,0,0
+1669753275997,220,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,219,0,0
+1669753276123,148,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,148,0,0
+1669753276217,162,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,162,0,0
+1669753276380,176,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,175,0,0
+1669753276273,754,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,753,0,550
+1669753277027,168,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,168,0,0
+1669753276557,677,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,677,0,492
+1669753277234,136,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,136,0,0
+1669753277196,213,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1793,2,2,https://opencart.abstracta.us/index.php?route=account/register,213,0,0
+1669753277371,173,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1751,2,2,https://opencart.abstracta.us/index.php?route=account/register,173,0,0
+1669753277545,666,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,129,0,0
+1669753277545,129,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,129,0,0
+1669753277674,537,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,536,0,376
+1669753277410,905,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,162,0,0
+1669753277410,162,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,162,0,0
+1669753277572,743,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,743,0,548
+1669753278211,121,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753278316,154,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753278333,320,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,154
+1669753278471,315,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,152
+1669753278654,215,monitor-92,200,OK,Linea Base 1-2,text,true,,14435,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,214,0,0
+1669753278787,209,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,208,0,0
+1669753278869,163,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,163,0,0
+1669753278996,158,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,158,0,0
+1669753279032,179,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,179,0,0
+1669753279154,231,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,231,0,0
+1669753279212,677,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,677,0,373
+1669753279386,614,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,614,0,444
+1669753279889,139,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,139,0,0
+1669753280001,137,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,137,0,0
+1669753280029,165,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5359,1767,2,2,https://opencart.abstracta.us/index.php?route=account/register,165,0,0
+1669753280139,171,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1745,2,2,https://opencart.abstracta.us/index.php?route=account/register,171,0,0
+1669753280195,808,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,129,0,0
+1669753280195,129,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,129,0,0
+1669753280324,679,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,678,0,489
+1669753281003,119,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753280311,912,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,129,0,0
+1669753280311,129,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,129,0,0
+1669753280440,783,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,783,0,471
+1669753281224,120,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753281122,313,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,149
+1669753281345,313,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,151
+1669753281435,234,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,233,0,0
+1669753281659,219,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,219,0,0
+1669753281669,353,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,353,0,0
+1669753281878,162,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,162,0,0
+1669753282023,175,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,175,0,0
+1669753282041,171,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,171,0,0
+1669753282213,553,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,553,0,380
+1669753282198,707,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,707,0,477
+1669753282767,142,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,142,0,0
+1669753282906,166,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,166,0,0
+1669753282910,179,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5356,1714,2,2,https://opencart.abstracta.us/index.php?route=account/register,179,0,0
+1669753283073,200,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5362,1815,2,2,https://opencart.abstracta.us/index.php?route=account/register,200,0,0
+1669753283091,749,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,133,0,0
+1669753283091,133,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,133,0,0
+1669753283225,615,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,614,0,388
+1669753283840,120,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753283274,820,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,162,0,0
+1669753283274,162,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,162,0,0
+1669753283437,657,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,657,0,490
+1669753284095,152,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753283961,340,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,151
+1669753284248,261,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,119
+1669753284302,213,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,212,0,0
+1669753284515,162,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,162,0,0
+1669753284510,177,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,177,0,0
+1669753284687,140,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,139,0,0
+1669753284677,180,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,180,0,0
+1669753284827,149,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,149,0,0
+1669753284859,580,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,579,0,392
+1669753284977,552,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,551,0,380
+1669753285439,131,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,131,0,0
+1669753285530,130,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,130,0,0
+1669753285571,224,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1801,2,2,https://opencart.abstracta.us/index.php?route=account/register,224,0,0
+1669753285660,167,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1812,2,2,https://opencart.abstracta.us/index.php?route=account/register,167,0,0
+1669753285796,671,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,128,0,0
+1669753285796,128,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,128,0,0
+1669753285924,543,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,542,0,380
+1669753286468,122,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753285828,813,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,130,0,0
+1669753285828,130,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,130,0,0
+1669753285958,683,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,683,0,490
+1669753286642,173,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753286591,361,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,223
+1669753286816,265,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,124
+1669753286952,195,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,194,0,0
+1669753287081,189,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,189,0,0
+1669753287147,129,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,129,0,0
+1669753287276,144,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,144,0,0
+1669753287271,280,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,280,0,0
+1669753287421,602,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,601,0,429
+1669753287551,567,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,567,0,0
+1669753288023,149,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,149,0,0
+1669753288172,164,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5357,1806,2,2,https://opencart.abstracta.us/index.php?route=account/register,164,0,0
+1669753288119,917,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,916,0,684
+1669753288336,870,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,146,0,0
+1669753288336,146,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,146,0,0
+1669753288482,724,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,724,0,518
+1669753289036,172,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,172,0,0
+1669753289207,121,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753289208,227,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5358,1816,2,2,https://opencart.abstracta.us/index.php?route=account/register,227,0,0
+1669753289328,319,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,154
+1669753289648,224,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,223,0,0
+1669753289872,327,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,326,0,0
+1669753289436,863,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,167,0,0
+1669753289436,167,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,167,0,0
+1669753289603,696,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,696,0,501
+1669753290199,177,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1669753290300,154,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753290455,402,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,154
+1669753290377,610,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,609,0,442
+1669753290858,219,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,219,0,0
+1669753290987,130,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,130,0,0
+1669753291118,163,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1789,2,2,https://opencart.abstracta.us/index.php?route=account/register,163,0,0
+1669753291078,323,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,323,0,0
+1669753291402,203,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,203,0,0
+1669753291605,616,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,615,0,438
+1669753292222,137,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,137,0,0
+1669753291282,1178,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,499,0,0
+1669753291282,499,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,499,0,0
+1669753291781,679,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,679,0,487
+1669753292360,163,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5363,1828,2,2,https://opencart.abstracta.us/index.php?route=account/register,163,0,0
+1669753292461,117,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753292578,404,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,236
+1669753292983,212,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,212,0,0
+1669753292524,813,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,127,0,0
+1669753292524,127,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,127,0,0
+1669753292652,685,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,684,0,484
+1669753293337,126,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753293196,313,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,313,0,0
+1669753293510,177,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,177,0,0
+1669753293464,338,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,126
+1669753293802,194,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,194,0,0
+1669753293997,264,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,264,0,0
+1669753293688,719,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,719,0,510
+1669753294262,155,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,155,0,0
+1669753294408,175,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,175,0,0
+1669753294583,229,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5356,1780,2,2,https://opencart.abstracta.us/index.php?route=account/register,229,0,0
+1669753294418,842,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,841,0,619
+1669753295260,169,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,169,0,0
+1669753295430,198,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1707,2,2,https://opencart.abstracta.us/index.php?route=account/register,197,0,0
+1669753294813,919,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,236,0,0
+1669753294813,236,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,236,0,0
+1669753295049,683,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,683,0,477
+1669753295733,155,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753295889,323,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,156
+1669753296212,208,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,207,0,0
+1669753295628,898,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,211,0,0
+1669753295628,211,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,211,0,0
+1669753295840,686,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,686,0,481
+1669753296527,153,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753296420,433,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,433,0,0
+1669753296680,279,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,120
+1669753296853,181,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,181,0,0
+1669753296959,211,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,210,0,0
+1669753297170,259,datos añadir al carro-116,200,OK,Linea Base 1-2,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,259,0,0
+1669753297430,146,boton añadir al carro-118,200,OK,Linea Base 1-2,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,146,0,0
+1669753297035,567,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,2,2,https://opencart.abstracta.us/,566,0,389
+1669753297602,174,boton registro-52,200,OK,Linea Base 1-1,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,174,0,0
+1669753297777,174,3-data registro-60,200,OK,Linea Base 1-1,text,true,,5358,1738,2,2,https://opencart.abstracta.us/index.php?route=account/register,174,0,0
+1669753297578,752,url-4,200,OK,Linea Base 1-2,text,true,,4862,549,2,2,https://opencart.abstracta.us/,752,0,544
+1669753298331,165,boton registro-52,200,OK,Linea Base 1-2,text,true,,492,635,2,2,https://opencart.abstracta.us/index.php?route=account%2Fregister%2Fcustomfield&customer_group_id=1,165,0,0
+1669753298497,231,3-data registro-60,200,OK,Linea Base 1-2,text,true,,5357,1740,2,2,https://opencart.abstracta.us/index.php?route=account/register,231,0,0
+1669753297952,932,boton continuar-79,200,OK,Linea Base 1-1,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,127,0,0
+1669753297952,127,boton continuar-79-0,302,Found,Linea Base 1-1,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,127,0,0
+1669753298080,804,boton continuar-79-1,200,OK,Linea Base 1-1,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,804,0,601
+1669753298884,121,boton continuar-81,204,No Content,Linea Base 1-1,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753299006,255,monitores-91,204,No Content,Linea Base 1-1,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,119
+1669753299261,180,monitor-92,200,OK,Linea Base 1-1,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,179,0,0
+1669753298729,857,boton continuar-79,200,OK,Linea Base 1-2,text,true,,4690,1256,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,168,0,0
+1669753298729,168,boton continuar-79-0,302,Found,Linea Base 1-2,text,true,,557,628,2,2,https://opencart.abstracta.us/index.php?route=account%2Faccount,168,0,0
+1669753298898,688,boton continuar-79-1,200,OK,Linea Base 1-2,text,true,,4133,628,2,2,https://opencart.abstracta.us:443/index.php?route=account/login,686,0,492
+1669753299441,247,datos añadir al carro-116,200,OK,Linea Base 1-1,text,true,,18371,566,2,2,http://opencart.abstracta.us/catalog/view/javascript/bootstrap/fonts/glyphicons-halflings-regular.woff2,247,0,0
+1669753299689,142,boton añadir al carro-118,200,OK,Linea Base 1-1,text,true,,631,902,2,2,http://opencart.abstracta.us/index.php?route=checkout/cart/add,142,0,0
+1669753299587,251,boton continuar-81,204,No Content,Linea Base 1-2,,true,,214,740,2,2,https://opencart.abstracta.us/mod_pagespeed_beacon?url=https%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Daccount%252Faccount,0,0,0
+1669753299838,253,monitores-91,204,No Content,Linea Base 1-2,,true,,215,725,2,2,http://opencart.abstracta.us/mod_pagespeed_beacon?url=http%3A%2F%2Fopencart.abstracta.us%2Findex.php%3Froute%3Dproduct%252Fcategory%26path%3D25_28,0,0,123
+1669753300091,217,monitor-92,200,OK,Linea Base 1-2,text,true,,12468,592,2,2,http://opencart.abstracta.us/index.php?route=product%2Fproduct&path=25_28&product_id=42,216,0,0
+1669753299832,582,url-4,200,OK,Linea Base 1-1,text,true,,4862,549,1,1,https://opencart.abstracta.us/,581,0,413
